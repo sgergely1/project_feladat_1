@@ -1,4 +1,4 @@
-# Project Feladat 1
+# Project Felada 1
 
 ## lapok
 - index.html: valami
