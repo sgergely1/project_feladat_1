@@ -3,4 +3,4 @@
 ## lapok
 - index.html: sg - fak
 - lagyszaruak.html: pb
-- bokrok/kaktuszok.html: km
+- kaktuszok.html: km
