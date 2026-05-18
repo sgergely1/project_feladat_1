@@ -1,7 +1,6 @@
 # Project Feladat 1
 
 ## lapok
-- index.html: valami
-- sg.html: sg
-- km.html: km
-- pb.html: pb
+- index.html: sg - fak
+- lagyszaruak.html: pb
+- bokrok/kaktuszok.html: km
