@@ -1,4 +1,24 @@
-#kakleiras {
-    color: green;
+body {
+    background-image: url("../img/kaktuszok/hatter.jpg");
+}
+
+.navbar {
+    background-color: #116626;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    --bs-bg-opacity: .9;
+    color: rgb(194 189 189);
+}
+
+#kaktusz_szoveg {
+    color: black;
     font-size: larger;
+    background-color: rgba(96, 83, 83, 0.60);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
 }
