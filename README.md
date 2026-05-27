@@ -1,6 +1,6 @@
-# Project Feladat 1
+# Operation Növények
 
-## lapok
-- index.html: sg
-- lagyszaruak.html: pb
-- kaktuszok.html: km
+## HTML oldalak
+- index.html: Solymos Gergely
+- lagyszaruak.html: Papp Barnabás
+- kaktuszok.html: Kelemen márk
