@@ -1,7 +1,9 @@
 #kep1 {
 	width: 25rem;
+	float: end;
 }
 
 #kep2 {
 	width: 12rem;
+	float: start;
 }
