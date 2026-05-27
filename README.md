@@ -3,4 +3,4 @@
 ## HTML oldalak
 - index.html: Solymos Gergely
 - lagyszaruak.html: Papp Barnabás
-- kaktuszok.html: Kelemen márk
+- kaktuszok.html: Kelemen Márk
