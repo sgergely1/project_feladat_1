@@ -1,5 +1,5 @@
 body {
-    background-image: url("../img/level_hatter.png");
+    background-image: url("../img/lagyszaruak/level_hatter.png");
     margin: 0;
 }
 
@@ -8,7 +8,7 @@ body::before{
     position: fixed;
     inset: 0;
 
-    background-image: url("../img/level_hatter.png");
+    background-image: url("../img/lagyszaruak/level_hatter.png");
     background-repeat: no-repeat;
     background-size: cover;
 
