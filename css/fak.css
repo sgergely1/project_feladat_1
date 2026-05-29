@@ -1,8 +1,9 @@
 body {
     background-image: url("../img/index/hatterkep.jpg");
-	  background-repeat: no-repeat;
+	background-repeat: no-repeat;
   	background-size: 100% 100%;
-	  height: 100vh;
+	min-height: 100vh;
+	height: fit-content;
 }
 
 #kep1 {
