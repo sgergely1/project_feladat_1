@@ -13,3 +13,8 @@ body {
 	width: 12rem;
 	float: left;
 }
+
+#container {
+	backdrop-filter: blur(10px);
+	background-color: #03210310;
+}
