@@ -1,3 +1,7 @@
+body {
+    background-image: url("../img/index/hatterkep.jpg");
+}
+
 #kep1 {
 	width: 25rem;
 	float: right;
