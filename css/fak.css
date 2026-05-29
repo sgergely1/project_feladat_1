@@ -19,8 +19,14 @@ body {
 }
 
 #container {
+	margin-top: 1rem;
 	backdrop-filter: blur(10px);
-	background-color: #03210310;
+	background-color: #0321032f;
 	padding: 1rem;
 	border-radius: 2rem;
+}
+
+nav {
+	background-color: #5554;
+	backdrop-filter: blur(10px);
 }
